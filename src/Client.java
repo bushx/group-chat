@@ -73,7 +73,7 @@ public class Client {
         }
     }
 
-    public void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your Username for the groupchat");
